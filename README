@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1882
+
+In the command mode, move your cursor on the number which you want to change.
+Then use SHIFT and + to increment the number 
+or SHIFT and - to decrement the number.
